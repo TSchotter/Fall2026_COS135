@@ -53,6 +53,7 @@ int main(){
     // != NULL: continue grabbing lines, until the end of file
     while(fgets(buffer, sizeof(buffer), fp) != NULL){
         // each loop iteration is one line stored in buffer.
+        //HW question, how can I check buffer to see if it starts with "Room Name"
         numLines++; // increment by one
     }
     // fp is at the end of the file, lets bring it back to the start

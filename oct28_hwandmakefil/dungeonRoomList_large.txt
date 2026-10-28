@@ -1,0 +1,79 @@
+Room Name: Forgotten Shrine
+Room Code: FS
+Room Description: A musty air fills this small chamber. In the center stands a crumbling altar, long abandoned by the gods it once served. Faint, flickering light dances from faded stained glass windows above. Strange symbols carved into the walls pulse with dim, forgotten magic, while the silence is broken only by the distant drip of water.
+
+Room Name: The Serpent’s Hall
+Room Code: SH
+Room Description: This narrow hall twists and winds like a snake. Torches flicker on the walls, casting long shadows over the stone carvings of serpents that line the passage. The floor is smooth but uneven, and the hiss of something unseen echoes ahead. The smell of damp earth and stone fills the air.
+
+Room Name: Arcane Study
+Room Code: AS
+Room Description: Shelves of old books line the walls, many coated with layers of dust. An ornate, cracked desk sits in the center, papers and scrolls scattered across it as if abandoned in haste. The faint smell of parchment and candle wax lingers, and the air hums with a lingering magical aura. A fireplace smolders dimly in one corner, casting flickering shadows.
+
+Room Name: The Iron Vault
+Room Code: IV
+Room Description: Massive iron doors guard this room, cold to the touch. Inside, rows of old, rusted chests and locked containers are scattered about. Some have been smashed open, while others remain untouched, waiting to be discovered. The stone floor bears the scrape marks of heavy objects once dragged across it, and the faint scent of metal and decay hangs in the air.
+
+Room Name: Hall of Mirrors
+Room Code: HM
+Room Description: This grand hall is lined with tall, ornate mirrors, each one reflecting the dim light of the torches that burn from the walls. The air is cold and unnerving as each reflection seems to shift unnaturally when the players aren't looking. The distant sound of footsteps echoes through the space, though it’s hard to tell if they belong to someone else or themselves.
+
+Room Name: Spiders Den
+Room Code: SD
+Room Description: Thick webs cover the walls and ceiling of this room, giving it a claustrophobic feel. The air is thick with the smell of decay, and in the corners of the room, cocooned bodies twitch faintly. The floor is sticky underfoot, and the soft rustling of legs can be heard from above. At the far end, a giant nest sits, dark and foreboding.
+
+Room Name: The Blood Pool
+Room Code: BP
+Room Description: At the center of this cold stone chamber lies a large pool filled with dark red liquid. The surface ripples as if disturbed, but nothing can be seen. Strange markings, written in a language long forgotten, circle the pool’s edge, glowing faintly. The air is heavy, and the room is silent except for the occasional drip of liquid into the pool.
+
+Room Name: The Hidden Armory
+Room Code: HA
+Room Description: Weapons and armor of various shapes and sizes line the walls of this hidden room. Dust covers the metal, but the craftsmanship of each item remains impeccable. In the center, a large, stone table holds a map carved directly into its surface. The weapons seem undisturbed, yet there’s a sense of recent presence, like someone was here not long ago.
+
+Room Name: Cursed Tomb
+Room Code: CT
+Room Description: This tomb is filled with the smell of rotting earth. Stone sarcophagi line the walls, each one adorned with carvings of long-dead figures. The air is unnervingly still, and a cold chill lingers despite the lack of wind. A faint green light glows from one of the tombs, and whispers seem to fill the air, though no one can be seen.
+
+Room Name: The Trial Chamber
+Room Code: TC
+Room Description: The walls of this large chamber are lined with stone statues, each one depicting a figure in a moment of judgment or trial. The ceiling is high, with cracks letting in dim beams of light from above. In the center, a large circular platform sits, engraved with symbols of power and fate. The air here is tense, as if the room itself awaits a test to be faced.
+
+Room Name: The Abyssal Pit
+Room Code: AP
+Room Description: This room features a massive, gaping pit in the center, its depths obscured by a swirling mist of darkness. The walls are lined with jagged rock, and faint red runes glow on the edges of the pit. The occasional whisper of wind emanates from the void below, carrying with it chilling echoes. The air feels unnaturally cold and oppressive.
+
+Room Name: The Crystal Cavern
+Room Code: CC
+Room Description: Jagged, glimmering crystals grow from the walls, ceiling, and floor of this vast cavern. Each step causes faint echoes as the delicate crystals vibrate with energy. Light reflects and refracts off the crystalline surfaces, casting vibrant, shifting hues across the room. There’s a faint hum in the air, as if the room itself is alive with magical energy.
+
+Room Name: The Silent Crypt
+Room Code: SC
+Room Description: The heavy stone doors open to reveal rows of ancient coffins, each sealed with iron bands. The air is thick with dust, and the silence is deafening, broken only by the occasional creak of wood settling. Faint traces of incense hang in the air, suggesting this crypt has not been disturbed for centuries. A cold draft comes from somewhere deeper within.
+
+Room Name: The Inferno Chamber
+Room Code: IC
+Room Description: The heat in this room is almost unbearable. Molten lava flows in controlled streams along channels carved into the stone floor. The walls are blackened by soot, and the flickering flames reflect off golden and brass decorations. The air is thick with sulfur, and the ground beneath the players' feet rumbles as if the entire room is on the verge of erupting.
+
+Room Name: The Echoing Cavern
+Room Code: EC
+Room Description: A vast, cavernous space with towering stalagmites and stalactites looming overhead. The sound of dripping water echoes from every direction, making it difficult to discern distance or size. The walls are covered in moss and strange bioluminescent fungi, casting the chamber in a faint green glow. Every footstep reverberates in an eerie, disorienting manner.
+
+Room Name: The Prison Cells
+Room Code: PC
+Room Description: Rusted iron bars line this narrow hallway, each set containing a small, cramped cell. Some of the cells contain skeletal remains, while others are eerily empty. The faint smell of mold and decay permeates the air, and the sound of dripping water from a leaky pipe somewhere echoes ominously. The faint sound of a distant, agonizing scream can occasionally be heard.
+
+Room Name: The Golem Workshop
+Room Code: GW
+Room Description: The room is filled with half-constructed golems and mechanical parts scattered across various workbenches. Tools, gears, and arcane blueprints lie abandoned, as if the creators left in haste. Strange, unblinking eyes of incomplete golems seem to follow the players as they move. The room hums with residual magical energy, and the sound of clinking metal echoes faintly.
+
+Room Name: The Hall of Chains
+Room Code: HC
+Room Description: Chains of various sizes hang from the ceiling in tangled masses, some connected to the walls, others swaying gently as if recently disturbed. The floor is uneven and cracked, with dried blood stains marking the ground in various places. A metallic smell lingers in the air, and the occasional rattle of chains creates an eerie atmosphere of suspense.
+
+Room Name: The Obsidian Chamber
+Room Code: OC
+Room Description: This room is carved entirely from smooth, black obsidian. The walls shimmer with a glassy sheen, reflecting any light in distorted patterns. Strange etchings cover the floor, pulsing faintly with a dim, violet glow. The air is unnervingly still, and there’s a tangible sense of power radiating from the dark stone, as if the room itself is alive with magic.
+
+Room Name: The Torturers Den
+Room Code: TD
+Room Description: This small, dimly lit room reeks of iron and blood. Torture devices, from racks to iron maidens, line the walls, some still stained with the remnants of past victims. Chains and manacles hang from the ceiling, swaying slightly. The air is thick and stifling, and the faint sound of groaning echoes in the players’ ears, as if the spirits of the tortured still linger here.
